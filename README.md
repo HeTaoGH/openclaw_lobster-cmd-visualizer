@@ -3,6 +3,8 @@
 这是一款专为 Windows 用户量身打造的 **OpenClaw WSL 桌面图形化启动器与高级会话管理工具**。通过一个直观的 GUI 界面，它让你无需在终端中敲击繁琐的命令行，就能轻松管理运行在 WSL (Windows Subsystem for Linux) 中的 OpenClaw 网关。
 
 ---
+<img width="967" height="584" alt="image" src="https://github.com/user-attachments/assets/5fd34590-edbf-407d-8a7b-237bd0e368a0" />
+
 <img width="1471" height="882" alt="image" src="https://github.com/user-attachments/assets/f72edf11-205c-413a-9c89-57f82e4a4b68" />
 <img width="1464" height="884" alt="image" src="https://github.com/user-attachments/assets/a372f5c1-eecb-406e-8638-08f0df573a4c" />
 
