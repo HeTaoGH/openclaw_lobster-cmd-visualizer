@@ -76,7 +76,7 @@
 ### 方式二：使用 Git 克隆（适合开发者）
 打开你的终端或 PowerShell，执行：
 ```bash
-git clone https://github.com/HeTaoGH/openclaw_lobster_cmd_visualizer.git
+git clone https://github.com/HeTaoGH/openclaw-wsl-launcher.git
 ```
 
 ---
